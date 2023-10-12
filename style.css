@@ -152,3 +152,9 @@ body {
         transform: scale(0.5);
     }
 }
+
+@media (max-width: 720px) {
+    main{
+        transform: scale(1.5);
+    }
+}
